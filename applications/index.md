@@ -529,6 +529,9 @@ title:  "Applications"
   * [**QMIDICurves**](http://ubuntu-music.org/blog)
     lets you change the velocity response of any MIDI device
     (like a MIDI keyboard for instance).
+  * [**A-Sono**](https://avis-sono.com/)
+    is an audio analysis software. Used for a basic visualization of
+    your audio device's frequency response and sound signature.   
   * [**reMID**](http://gp2x.org/remid)
     uses the reSID emulation library to provide
     a virtual SID based synthesizer, controllable in real-time via MIDI.
